@@ -1,0 +1,10 @@
+// arithmetic.fl - 산술 연산
+
+fn main() {
+    let x = 10
+    let y = 20
+    
+    println(x + y)      // 30
+    println(x * y)      // 200
+    println(y - x)      // 10
+}

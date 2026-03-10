@@ -1,0 +1,5 @@
+// hello.fl - 첫 번째 FreeLang 프로그램
+
+fn main() {
+    println("Hello, FreeLang!")
+}
