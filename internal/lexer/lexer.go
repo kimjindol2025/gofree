@@ -2,7 +2,6 @@ package lexer
 
 import (
 	"fmt"
-	"unicode"
 )
 
 // Lexer tokenizes FreeLang source code
